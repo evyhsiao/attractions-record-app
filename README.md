@@ -1,5 +1,12 @@
 # attractions-redord-app
-An app for recording attractions (locatable).
+An app for recording attractions.
+
+## Features
+
+- Location
+- Navigation
+- Weather
+- Add and Delete attraction
 
 ## DEMO
 
