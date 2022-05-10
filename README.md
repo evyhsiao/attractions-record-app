@@ -12,4 +12,4 @@ An app for recording attractions.
 
 video: https://youtu.be/SZi5sPxID8g
 
-![img](https://github.com/evyhsiao/attractions-redord-app/blob/main/DEMO.gif)
+![img](https://github.com/evyhsiao/attractions-record-app/blob/main/DEMO.gif?raw=true)
